@@ -23,15 +23,15 @@
 - 🖥️ Run and document my own **Proxmox home server**
 
 ### 💼 Experience
-| When | Role | Highlights |
-|---|---|---|
-| Now | **AI Engineer** · Critical Software | Agentic and GenAI systems |
-| 2025–2026 | **Senior Data Scientist** · Stratio | LangChain agents for natural-language data querying, RAG over technical docs, LLM-as-a-judge scoring, physics-informed battery models |
-| 2024–2025 | **Data Scientist** · Cegid Primavera | Enterprise GenAI R&D: multi-agent frameworks (AutoGen), metaprompting, LLM evaluation for finance and reporting |
-| 2023–2024 | **Data Science Mastermind** · Critical TechWorks | AWS ETL pipelines with Terraform, Qlik dashboards and data-quality standards for the BMW UK market |
-| 2022–2023 | **Data Scientist** · Banco Credibom | Risk-model features from FFT and wavelet time-series analysis, model monitoring, open-banking model standards |
-| 2020–2021 | **Data Scientist** · Avlino | Graph community detection in mobile networks, digital twins of port equipment, Kafka streams |
-| 2017–2020 | **Researcher** · IFIMUP | Magnetic nanostructures and the Spin Seebeck effect |
+| Role | Highlights |
+|---|---|
+| **AI Engineer** · Critical Software | Agentic and GenAI systems |
+| **Senior Data Scientist** · Stratio | LangChain agents for natural-language data querying, RAG over technical docs, LLM-as-a-judge scoring, physics-informed battery models |
+| **Data Scientist** · Cegid Primavera | Enterprise GenAI R&D: multi-agent frameworks (AutoGen), metaprompting, LLM evaluation for finance and reporting |
+| **Data Science Mastermind** · Critical TechWorks | AWS ETL pipelines with Terraform, Qlik dashboards and data-quality standards for the BMW UK market |
+| **Data Scientist** · Banco Credibom | Risk-model features from FFT and wavelet time-series analysis, model monitoring, open-banking model standards |
+| **Data Scientist** · Avlino | Graph community detection in mobile networks, digital twins of port equipment, Kafka streams |
+| **Researcher** · IFIMUP | Magnetic nanostructures and the Spin Seebeck effect |
 
 <sub>Full history on [LinkedIn](https://www.linkedin.com/in/simaosa77).</sub>
 
