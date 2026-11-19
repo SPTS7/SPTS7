@@ -54,7 +54,6 @@
 | 🧲 [FMR_Analysis](https://github.com/SPTS7/FMR_Analysis) | Ferromagnetic resonance fitting: damping, linewidth, gyromagnetic ratio | Python · lmfit |
 | 📈 [XRD-and-Multipeaks](https://github.com/SPTS7/XRD-and-Multipeaks) | X-ray diffraction analysis and multi-peak fitting | Python |
 | 🪵 [wood_cutter](https://github.com/SPTS7/wood_cutter) | Heuristic solver for the NP-hard 2D cutting-stock problem | Python |
-| 🔎 [MatFinder](https://github.com/SPTS7/MatFinder) | Automation tooling from the startup I co-founded (2017–2019) | Python |
 | 🌌 [Andromeda_Docs](https://spts7.github.io/Andromeda_Docs/) | Docs and disaster-recovery runbook for my home server | JavaScript · Markdown |
 
 ### 💻 Languages
