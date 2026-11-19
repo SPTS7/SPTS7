@@ -17,9 +17,8 @@
 - 🤖 **AI Engineer at Critical Software**, building agentic and GenAI systems
 - 🎓 **PhD candidate in Physics at the University of Porto**, working on physics-constrained AI for complex physical systems
 - 📈 **6+ years in data science and AI**, from anomaly detection and risk models to multi-agent systems, RAG and LLM evaluation
-- 🔋 Built **physics-informed models** for electric-bus batteries and energy systems
-- 🧲 Physics roots: MSc research on the **Spin Seebeck effect** (spintronics and energy harvesting), with hands-on FMR, XRD, MOKE, VSM and SQUID work
-- 🧑‍🏫 Enjoy mentoring: onboarded new hires and mentored an intern on a scheduling-optimization project
+- 🧲 Physics roots: MSc research on the **Spin Seebeck effect** (spintronics and energy harvesting)
+- 🧑‍🏫 Enjoy mentoring
 - 🖥️ Run and document my own **Proxmox home server**
 
 ### 💼 Experience
