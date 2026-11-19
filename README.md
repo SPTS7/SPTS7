@@ -108,7 +108,7 @@
 ![Agile](https://img.shields.io/badge/Agile-6DB33F?style=flat-square)
 
 ### 🏅 Leadership & community
-- 🏛️ **Co-founder and President of PhysikUP**, the physics students' association at the University of Porto. Under my presidency we organized the 2018 national meeting of physics students.
+- 🏛️ **Co-founder and President of PhysikUP**, the physics students' association at the University of Porto.
 - 🚀 **Co-founder and developer at MatFinder** (2017–2019): customer data validation, PostgreSQL backend, Python automation
 - 🏆 **Crédit Agricole European Hackathon**: built a risk scorecard model in 2 days
 
